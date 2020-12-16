@@ -1,0 +1,8 @@
+git pull origin master → Descargar la última versión del remoto
+git checkout -b nombre-de-la-rama → creamos una rama nueva  llamada nombre-de-la-rama
+git add . → añadir los cambios a staging
+git commit -m “mensaje” → commitear los cambios con un mensaje
+git push origin HEAD → enviar los cambios de local a remoto
+git checkout master →volver a master
+git diff → Diferencias entre la última versión y tus cambios (A vs B)
+git status → Para saber qué archivos se han modificado
