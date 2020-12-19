@@ -1,0 +1,29 @@
+{
+  "name": "programacion-practica-seo-master",
+  "version": "1.0.0",
+  "description": "Respositorio del curso de programación práctica para SEO",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "neat-csv": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andoni-mv/programacion-practica-seo.git"
+  },
+  "keywords": [
+    "programacion",
+    "seo",
+    "curso"
+  ],
+  "author": "Andoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andoni-mv/programacion-practica-seo/issues"
+  },
+  "homepage": "https://github.com/Andoni-mv/programacion-practica-seo#readme"
+}
